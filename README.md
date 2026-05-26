@@ -13,22 +13,14 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-I am a **full-stack developer** with **7+ years of experience**, specializing in **web, mobile, and blockchain development**. My passion lies in building **high-performance applications**, from dynamic UIs to secure and scalable backend systems. I enjoy solving complex problems and bringing innovative ideas to life.
+**Full-Stack Engineer** with 8+ years of experience architecting and scaling SaaS platforms, web applications, and cloud-based systems. Specialized in **Python**, **Django**, **JavaScript**/**​TypeScript**, **REST APIs**, and database optimization. Delivered secure, high-performance SaaS applications supporting scalable cloud infrastructure, backend reliability, and modern software architecture across startup and agile environments.
 
 - 😄 I am handsome and cool.
 - 😎 One Developer Army 💪💪
-- 🔭 I’m currently working on a [lot of projects](https://github.com/echandsome?tab=repositories) !!
+- 🔭 I’m currently working on a [lot of projects](https://github.com/ralphleyga67625520?tab=repositories) !!
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2026 Goals: $1000000
 - ⚡ Fun fact: I like code and beautiful girl 🤣🤣
-
-
-<h2> Visitor count  </h2>
-
-<div align="left">  
-  <img src="https://komarev.com/ghpvc/?username=echandsome&style=for-the-badge&color=orange" align="center"/> 
-</div>
-<br>
   
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
@@ -111,31 +103,44 @@ I am a **full-stack developer** with **7+ years of experience**, specializing in
 </table>
 <br>
 
-<h2> Profile Stats  <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
+<h2>Contact Me  <img width ='18px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </h2>
 
-<div align="center" >
-
-### ***<img src="https://media.giphy.com/media/KeUoFXwyzOksZrJ6D6/giphy.gif" width="30px"> &nbsp; Streak Stats***
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=echandsome&theme=sunset-gradient&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-### ***<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats***
-
-  <img alt="Qasim Parekh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=echandsome&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866" height="192px"/>
-  <img alt="Qasim Parekh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=echandsome&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=4E96FFFF&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/>
-  <br/>
-
-[![Qasim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=echandsome&bg_color=20222e&color=4e96ff&line=4783de&point=ffffff&area=true&hide_border=true)]()
-
-</div>
+  <table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="ralphleyga67625520@outlook.com">
+        <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" alt="icon" width="65" height="65" />
+        <br>Email
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://t.me/smile12151995">
+        <img src="https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000" alt="icon" width="65" height="65" />
+        <br>Telegram
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://discord.com/channels/1508784234016276520/1508784235107061934">
+        <img src="https://img.icons8.com/?size=100&id=azzxdxaEfFJg&format=png&color=000000" alt="icon" width="65" height="65" />
+        <br>Discord
+      </a>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/ralph-leyga-67625520/">
+        <img src="https://img.icons8.com/?size=100&id=wybRSjTxfYz3&format=png&color=000000" alt="icon" width="65" height="65" />
+        <br>LindedIn
+      </a>
+    </td>
+  </tr>
+</table>
 <br>
 
 
-<h2> My Trophies  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'> </h2>
+<h2> Hello Everybody  <img width ='20px' src ='https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif'> </h2>
 
 <div align="center" >
 
-[![trophy](https://github-profile-trophy-gamma-seven.vercel.app/?username=echandsome&theme=onedark&margin-w=4&row=1&column=9)](https://github.com/echandsome)
+<img src="https://count.getloli.com/@Hunterdii?name=ralphleyga67625520&theme=gelbooru&darkmode=0&num=19980117&padding=8"  width="700"> 
 </div>
 
 
