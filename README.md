@@ -15,7 +15,7 @@
 
 **Full-Stack Engineer** with 8+ years of experience architecting and scaling SaaS platforms, web applications, and cloud-based systems. Specialized in **Python**, **Django**, **JavaScript**/**​TypeScript**, **REST APIs**, and database optimization. Delivered secure, high-performance SaaS applications supporting scalable cloud infrastructure, backend reliability, and modern software architecture across startup and agile environments.
 
-- 😄 I am handsome and cool.
+- 😄 I am handsome and cool.[ralphleyga67625520@outlook.com]
 - 😎 One Developer Army 💪💪
 - 🔭 I’m currently working on a [lot of projects](https://github.com/ralphleyga67625520?tab=repositories) !!
 - 👯 I’m looking to collaborate with other content creators
@@ -107,12 +107,6 @@
 
   <table align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="https://ralphleyga67625520@outlook.com">
-        <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" alt="icon" width="65" height="65" />
-        <br>Email
-      </a>
-    </td>
     <td align="center" width="96">
       <a href="https://t.me/smile12151995">
         <img src="https://img.icons8.com/?size=100&id=25n4hOEoY7ss&format=png&color=000000" alt="icon" width="65" height="65" />
