@@ -108,7 +108,7 @@
   <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="ralphleyga67625520@outlook.com">
+      <a href="https://ralphleyga67625520@outlook.com">
         <img src="https://img.icons8.com/?size=100&id=tnnUFgHrPmR0&format=png&color=000000" alt="icon" width="65" height="65" />
         <br>Email
       </a>
