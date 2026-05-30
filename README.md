@@ -134,7 +134,7 @@
 
 <div align="center" >
 
-<img src="https://count.getloli.com/@Hunterdii?name=ralphleyga67625520&theme=gelbooru&darkmode=0&num=19980117&padding=8"  width="700"> 
+<img src="https://count.getloli.com/@Hunterdii?name=ralphleyga67625520&theme=gelbooru&darkmode=0&num=67625520&padding=8"  width="700"> 
 </div>
 
 
